@@ -11,6 +11,7 @@
 			userInfo:{},
 			MyMenus:[]
 		 },
+		 comments
 		onLaunch: function(option) {
 			let that = this;
 			// #ifdef MP
